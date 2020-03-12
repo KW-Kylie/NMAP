@@ -1,4 +1,5 @@
-# Try NMAP script
+# Learning NMAP scripting
+# n_map.py
 # By enter the host ip and port range in the script, then it will scan the host open ports
 
 import nmap
