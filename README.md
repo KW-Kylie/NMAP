@@ -7,4 +7,4 @@ By enter the host ip and port range in the script, then it will scan the host op
 By enter the domain name and port range in the script, then it will scan the host open ports
 
 # p2_portscan_ip.py
-Enter the raw_input info as required
+Enter the raw_input info as required: remote host IP, the start port numbert and the end port numbert
